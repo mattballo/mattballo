@@ -62,7 +62,9 @@
 					font-family: Gill Sans;
 					padding-bottom: 2em;
 				}
-				
+				img {
+					width: 5em;
+				}
 				
 			</style>
 			<div class="container">
