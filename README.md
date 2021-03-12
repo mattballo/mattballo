@@ -1,4 +1,4 @@
-<img src="background.svg" alt="Hi there, I'm Matej"  />
+![alt text](https://raw.githubusercontent.com/mattballo/mattballo/5535a0793428273f8c2c31ce965fe2782f5fbbd8/background.svg)
 
 <!--
 **matejballo/matejballo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
