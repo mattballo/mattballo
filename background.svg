@@ -62,6 +62,10 @@
 					font-family: Gill Sans;
 					padding-bottom: 2em;
 				}
+				.links a {
+					padding: 1em;
+				}
+				
 				
 			</style>
 			<div class="container">
