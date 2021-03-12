@@ -1,6 +1,6 @@
-<h1 style="text-align: center;"> 
+<h1 align="center"> 
   Hi there, I'm <a href="https://mattballo.com">Matej</a>
-<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40" height="40" />
 </h1> 
 
 
