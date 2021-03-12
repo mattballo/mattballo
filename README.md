@@ -1,8 +1,4 @@
-<h1 align="center"> 
-  Hi there, I'm <a href="https://mattballo.com">Matej</a>
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40" height="40" />
-</h1> 
-
+<img src="background.svg" alt="Hi there, I'm Matej"  />
 
 <!--
 **matejballo/matejballo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
