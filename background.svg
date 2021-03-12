@@ -63,9 +63,8 @@
 			</style>
 			<div class="container">
 				<h1 align="center"> 
-  					Hi there, I'm <a href="https://mattballo.com">Matej</a>
+  					Hi there, I'm <a xlink:href="https://mattballo.com">Matej</a>
 				</h1> 
-				 <a xlink:href="www.medium.com/p/f254e0f6b71a" target="__blank"><text x="0" y="15" fill="black">My Blog!</text></a>
 			</div>
 		</div>
 	</foreignObject>
