@@ -3,99 +3,40 @@
 	<foreignObject width="100%" height="100%">
 		<div xmlns="http://www.w3.org/1999/xhtml">
 			<style>
-				@import "https://fonts.googleapis.com/css?family=Lato:100";
-
-				* {
-				    margin: 0;
-				    padding: 0;
-				    box-sizing: border-box;
+				@keyframes rotate {
+					0% {
+						transform: rotate(3deg);
+					}
+					100% {
+						transform: rotate(-3deg);
+					}
+				}
+				@keyframes gradientBackground {
+					0% {
+						background-position: 0% 50%;
+					}
+					50% {
+						background-position: 100% 50%;
+					}
+					100% {
+						background-position: 0% 50%;
+					}
+				}
+				@keyframes fadeIn {
+					0% {
+						opacity: 0;
+					}
+					66% {
+						opacity: 0;
+					}
+					100% {
+						opacity: 1;
+					}
 				}
 
-				html {
-				    font-size: 10px;
-				    font-family: "Lato", Arial, sans-serif;
-				}
-
-				section {
-				    width: 100%;
-				    height: 100vh;
-				    color: #fff;
-				    background: linear-gradient(-45deg, #e64040, #ee7752, #23a6d5, #23d5ab);
-				    background-size: 400% 400%;
-				    position: relative;
-				    animation: change 15s ease-in-out infinite;
-				}
-
-
-
-				@keyframes change {
-				    0% {
-					background-position: 0% 50%;
-				    }
-				    50% {
-					background-position: 100% 50%;
-				    }
-				    100% {
-					background-position: 0% 50%;
-				    }
-				}
-
-				#linkedin-icon, #github-icon, #website-icon {
-				    height: 5rem;
-				    width: auto;
-				    margin: 1em;
-				}
-
-				#linkedin-icon:hover, #github-icon:hover, #website-icon:hover {
-				    opacity: 0.8;
-				}
-
-				.links {
-				    margin-top: 2em;
-				}
-
-				.frame {
-				    width: auto;
-				    max-width: 100%;
-				    display: inline-block;
-				    position: absolute;
-				    flex-wrap: wrap;
-				    top: 50%;
-				    left: 50%;
-				    transform: translate(-50%, -50%);
-				    border: 3px solid #fff;
-				    padding: 2em 5em 2em 5em;
-				    text-align: center;
-				}
-
-
-				h1 {
-				    width: 100%;
-				    font-size: 5rem;
-				    text-transform: uppercase;
-				    letter-spacing: 2px;
-				    white-space: nowrap;
-				    /*
-				    border: 3px solid #fff;
-				    position: absolute;
-				    top: 50%;
-				    left: 50%;
-				    transform: translate(-50%, -50%);
-				    padding: 5rem 10rem;*/
-				}
 			</style>
 			<div class="container">
-				  <h1 >Matej Ballo</h1>
-				  <div class="links">
-                		<a target="_blank" rel="noopener noreferrer" href="https://github.com/mattballo"><img
-                       			 src="github.svg" alt="github" id="github-icon" /></a>
-				<a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/matejballo/"><img
-					src="linkedin.svg" alt="linkedin" id="linkedin-icon" /></a>
-				<a target="_blank" rel="noopener noreferrer" href="https://apps.ataya.studio"><img
-					src="internet.svg" alt="website" id="website-icon" /></a>
-
-            </div>
+			
 			</div>
-		</div>
 	</foreignObject>
 </svg>
