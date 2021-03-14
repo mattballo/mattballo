@@ -602,11 +602,11 @@
 				494px 1957px #fff, 1296px 431px #fff, 175px 1507px #fff, 831px 121px #fff,
 				498px 1947px #fff, 617px 880px #fff, 240px 403px #fff;
 			}
-}
+		}
 				
 			</style>
 
-				<div class="container">
+			<div class="container">
 				<section class="wrapper">
 					<div id="stars"></div>
 					<div id="stars2"></div>
@@ -615,7 +615,7 @@
 						<span>Hi, There</span>
 					</div>
 				</section>
-				</div>
+			</div>
 
 	</foreignObject>
 </svg>
