@@ -1,15 +1,29 @@
 <a href="https://mattballo.com" target="_blank"> <img src="stars.svg"/></a>
-<!--
-**matejballo/matejballo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br> <br> <br>
+## About me
+📫 How to reach me: <br>
+&ensp; &ensp; &ensp;<a href="linkedin.com/in/matejball"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<br> <br>
+🔭 I’m currently working on my bachelor project <br>
+🌱 I’m currently learning SWIFT 5 <br>
+🤝 **I will welcome any collaboration opportunities** <br>
 
-Here are some ideas to get you started:
+## Technology I use
+🔭 I’m mainly focus on: <br>
+&ensp; &ensp; &ensp;<img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white"/>
+<img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧰 I have also experiences with: <br>
+&ensp; &ensp; &ensp;<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=white"/>
+
+📖 I want to learn more about: <br>
+&ensp; &ensp; &ensp;<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+
+⚡ Fun fact: I've never seen star wars
+
+![](https://komarev.com/ghpvc/?username=mattballo)
