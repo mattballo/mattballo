@@ -604,7 +604,7 @@
 			}
 
 			.wave {
-					height: 20%;
+					height: 20px;
 					position: absolute;
 					top: 65%;
 					left: 0;
