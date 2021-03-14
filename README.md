@@ -9,7 +9,7 @@
 🤝 **I will welcome any collaboration opportunities** <br>
 
 ## Technology I use
-🔭 I’m mainly focus on: <br>
+🔭 I am mainly focusing on: <br>
 &ensp; &ensp; &ensp;<img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white"/>
 <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/>
 
