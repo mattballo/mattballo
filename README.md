@@ -1,4 +1,4 @@
-<a href="https://mattballo.com" target="_blank"> <img src=""/></a>
+<a href="https://mattballo.com" target="_blank"> <img src="stars.svg"/></a>
 <!--
 **matejballo/matejballo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
