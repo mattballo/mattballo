@@ -1,12 +1,5 @@
 <a href="https://mattballo.com" target="_blank"> <img src="stars.svg"/></a>
 <br> <br> <br>
-## About me
-📫 How to reach me: <br>
-&ensp; &ensp; &ensp;<a href="linkedin.com/in/matejball"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<br> <br>
-🔭 I’m currently working as intern <br>
-🌱 I’m currently learning SWIFT 5 <br>
-🤝 **I will welcome any collaboration opportunities** <br>
 
 ## Technology I use
 🔭 Technologies I'm working with: <br>
@@ -25,6 +18,14 @@
 &ensp; &ensp; &ensp;<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
+
+## About me
+📫 How to reach me: <br>
+&ensp; &ensp; &ensp;<a href="linkedin.com/in/matejball"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<br> <br>
+🔭 I’m currently working as intern <br>
+🌱 I’m currently learning SWIFT 5 <br>
+🤝 **I will welcome any collaboration opportunities** <br>
 
 ⚡ Fun fact: I've never seen star wars
 
