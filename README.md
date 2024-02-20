@@ -1,6 +1,9 @@
 <a href="https://mattballo.com" target="_blank"> <img src="stars.svg"/></a>
+
 <!-- DISABLED 
 <br> <br> <br>
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/mattej)
 
 ## Technology I use
 🔭 Technologies I'm working with: <br>
