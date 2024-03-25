@@ -1,5 +1,5 @@
 <div align="center"><a href="https://mattballo.com" target="_blank"> <img src="stars.svg"/></a></div>
-<!-- <div align="center"><img src="https://leetcard.jacoblin.cool/Matt2L" alt="Leetcode Stats" style="display: inline-block;" /></div> -->
+<div align="center"><img src="https://leetcard.jacoblin.cool/Matt2L" alt="Leetcode Stats" style="display: inline-block;" /></div>
 
 <!-- DISABLED 
 <br> <br> <br>
